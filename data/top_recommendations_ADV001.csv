@@ -1,0 +1,11 @@
+billboard_id,city,lat,lon,type,environment,estimated_footfall,monthly_cost,preferred_audience,score
+BB104,Nice,43.608829,5.481011,Static,Commercial,19895,722,Youth,0.998
+BB033,Nice,44.685607,4.756176,Mobile,Suburban,19782,2304,Youth,0.997
+BB138,Paris,46.068054,4.509098,Static,Suburban,18943,2989,Youth,0.984
+BB054,Paris,45.462298,6.033307,Digital,Residential,18948,1319,Youth,0.984
+BB063,Toulouse,44.367611,4.062647,Mobile,Commercial,18879,579,Youth,0.983
+BB185,Paris,44.174747,1.916168,Digital,Highway,18410,1794,Youth,0.976
+BB019,Lyon,44.827683,2.086033,Static,Residential,16671,1244,Youth,0.95
+BB177,Nice,46.952162,2.477607,Digital,Highway,16489,4932,Youth,0.947
+BB038,Marseille,47.241144,5.874043,Digital,Commercial,15803,943,Youth,0.937
+BB098,Toulouse,45.034179,3.595257,Digital,Residential,15767,3906,Youth,0.937

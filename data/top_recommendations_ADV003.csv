@@ -1,0 +1,11 @@
+billboard_id,city,lat,lon,type,environment,estimated_footfall,monthly_cost,preferred_audience,score
+BB036,Lyon,47.633469,2.692294,Mobile,Suburban,19211,4372,Families,0.988
+BB045,Toulouse,48.323276,4.33329,Digital,Commercial,18711,4486,Families,0.981
+BB004,Paris,43.348502,6.697057,Mobile,Suburban,18356,3936,Families,0.975
+BB130,Lyon,46.420367,2.083059,Digital,Urban,18059,2016,Families,0.971
+BB094,Lyon,47.903333,4.831205,Mobile,Highway,17581,4469,Families,0.964
+BB048,Nice,47.625803,4.462774,Static,Urban,17140,1156,Families,0.957
+BB088,Nice,46.871037,2.546199,Static,Commercial,16699,3773,Families,0.95
+BB011,Paris,46.671117,2.336963,Digital,Highway,15357,3488,Families,0.93
+BB193,Paris,47.410426,6.320886,Digital,Highway,14115,1938,Families,0.912
+BB163,Nice,48.729192,5.927382,Static,Residential,13869,1263,Families,0.908
