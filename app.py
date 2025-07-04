@@ -95,3 +95,9 @@ Built with:
 - 📊 Pandas & Matplotlib
 - 🌐 Streamlit for UI
 - 🤖 Simple scoring algorithm
+
+     Arletes SHAJILAL
+             
+     AIVANCITY School for Technology, Business and Society, Paris
+
+     EGERINE - Let's glow """)
