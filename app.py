@@ -95,6 +95,3 @@ Built with:
 - 📊 Pandas & Matplotlib
 - 🌐 Streamlit for UI
 - 🤖 Simple scoring algorithm
-
-Team: Your Name / University / Course (edit this section!)
-    """)
