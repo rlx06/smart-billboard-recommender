@@ -35,7 +35,6 @@ body {
 st.title("🎯 Smart Billboard Recommender System")
 st.markdown('<p class="big-font">Find the best billboards for your next ad campaign</p>', unsafe_allow_html=True)
 
-st.image("https://source.unsplash.com/1600x400/?billboard,advertising", use_column_width=True)
 
 st.markdown("""
 This app helps advertisers select **optimal billboard placements** by analyzing:
